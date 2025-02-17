@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 💫 About Me:
 🔭 I’m currently working on Blockchain<br>👯 I’m looking to collaborate on real time web dev projects<br>🌱 I’m currently learning AWS<br>💬 Ask me about Python<br>
 
